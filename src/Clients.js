@@ -52,10 +52,10 @@ const Clients = () => {
                     </div>
                     <div className="ltn__testimonial-info">
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis
-                        nostrud ullamco laboris nisi ut aliquip ex ea commodo.
+                        Clients praise the tyre company for durable, reliable
+                        products and excellent performance across conditions.
+                        Positive reviews highlight good value for money,
+                        efficient service, and professional staff.
                       </p>
                       <h4>Jacob William</h4>
                       <h6>Manager</h6>
